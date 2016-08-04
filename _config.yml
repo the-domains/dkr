@@ -1,0 +1,14 @@
+layout_spectrum: 0.3596486
+typography_spectrum: 0.5736234
+color:
+  saturation: 0.9265572
+  lightness: 0.1476734
+  brandStrength: 0.5770462
+  rhythmicContrast: 0.8834585
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: dkr
